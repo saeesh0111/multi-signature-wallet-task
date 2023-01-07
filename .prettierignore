@@ -1,0 +1,6 @@
+# Ignore artifacts
+artifacts
+cache
+build
+coverage
+
